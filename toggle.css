@@ -1,0 +1,20 @@
+/* Checkbox styling: */
+
+#checkbox-cont {
+  display: table;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px auto;
+  color: #ead1ff;
+  background-color: #9926ff;
+  border-radius: 5px;
+  font-family: Verdana;
+  font-size: 16pt;
+  font-weight: bold;
+}
+
+#checkbox-cont input[type="checkbox"] {
+  width: 16pt;
+  height: 16pt;
+  vertical-align: top;
+}
